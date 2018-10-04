@@ -7,7 +7,7 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/kubernauts/tk8/internal/cluster"
+	"github.com/kubernauts/tk8-provisioner-baremetal/internal/cluster"
 	"github.com/spf13/viper"
 )
 
