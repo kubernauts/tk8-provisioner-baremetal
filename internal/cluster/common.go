@@ -11,7 +11,7 @@ import (
 
 var Name string
 
-type AzureConfig struct {
+type BaremetalConfig struct {
 	ClusterName         string
 	AWSRegion           string
 	NodeInstanceType    string
