@@ -9,6 +9,8 @@ import (
 	"github.com/alecthomas/template"
 )
 
+var Name string
+
 type AzureConfig struct {
 	ClusterName         string
 	AWSRegion           string
